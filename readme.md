@@ -1,6 +1,9 @@
 learning Laravel with Heroku
 
-以下を実行して作成
+以下を参考
+https://devcenter.heroku.com/articles/getting-started-with-laravel
+
+以下を実行して作成した
 
 ```bash
 $ curl -sS https://getcomposer.org/installer | php
